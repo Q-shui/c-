@@ -12,7 +12,7 @@ int jc(int x)
 }
 int main()
 {
-	//����n�Ľ׳�
+	//¼ÆËãnµÄ½×³Ë
 	
 	for (int a = 1,b = 1; a <= 10; a++)
 	{
@@ -39,7 +39,7 @@ int main()
 		
 	}
 	printf("%d\n", sum1);
-	//�Ż�
+	//ÓÅ»¯
 	for (int l = 1, sum2 = 0, jc2 = 1; l <= 10; l++)
 	{
 		jc2 *= l;
