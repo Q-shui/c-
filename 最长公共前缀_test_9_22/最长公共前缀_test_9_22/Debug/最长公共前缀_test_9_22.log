@@ -1,0 +1,5 @@
+﻿  test.c
+E:\c\LeetCode\最长公共前缀_test_9_22\最长公共前缀_test_9_22\test.c(21,19): warning C4018: “<”: 有符号/无符号不匹配
+E:\c\LeetCode\最长公共前缀_test_9_22\最长公共前缀_test_9_22\test.c(43,44): warning C4047: “函数”:“char **”与“char [3][10]”的间接级别不同
+E:\c\LeetCode\最长公共前缀_test_9_22\最长公共前缀_test_9_22\test.c(43,40): warning C4024: “longestCommonPrefix”: 形参和实参 1 的类型不同
+  最长公共前缀_test_9_22.vcxproj -> E:\c\LeetCode\最长公共前缀_test_9_22\Debug\最长公共前缀_test_9_22.exe
